@@ -26,6 +26,8 @@
 
 ### 📺 Contact Me
 
-  <a href="https://saidmagdy2023@gmail.com"> <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <a href="https://saidmagdy2023@gmail.com"> <img width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <a href="https://www.linkedin.com/in/said-magdy-shhata-0a95a6246"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
+
  
 ---
