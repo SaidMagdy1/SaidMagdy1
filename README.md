@@ -26,13 +26,6 @@
 
 ### 📺 Contact Me
 
-
-  <a href="saidmagdy2023@gmail.com">
-  <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-
+  <a href="https://saidmagdy2023@gmail.com"> <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+ 
 ---
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a></p>
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
