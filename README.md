@@ -6,7 +6,7 @@
 ### 🧰 Here is what I'm working on!  
 
 - 🔭 I’m currently working on building HMI(Cluster/Infotainment).
-- Building wifi connection between mobile and the vechile.
+- Building wifi connection between mobile and the vehicle.
 - system graphs.
 - navigation page..etc
 - all done by QT/Qml.
