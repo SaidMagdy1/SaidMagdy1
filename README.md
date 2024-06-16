@@ -6,6 +6,10 @@
 ### 🧰 Here is what I'm working on!  
 
 - 🔭 I’m currently working on building HMI(Cluster/Infotainment).
+- Building wifi connection between mobile and the vechile.
+- system graphs.
+- navigation page..etc
+- all done by QT/Qml.
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
