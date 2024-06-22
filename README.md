@@ -22,6 +22,7 @@
 <a href="https://www.figma.com/" ><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <a href="https://stackoverflow.com" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://www.python.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.qt.io/qt-for-c-plus-plus" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt Creator Icon" width="40" height="40"></a>
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-green)
 ![C++](https://img.shields.io/badge/C++-Intermediate-lightgreen)
