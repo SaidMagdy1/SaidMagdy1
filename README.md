@@ -27,7 +27,7 @@
 ![Python](https://img.shields.io/badge/Python-Intermediate-green)
 ![C++](https://img.shields.io/badge/C++-Intermediate-lightgreen)
 ![Rust](https://img.shields.io/badge/Rust-Beginner-blue)
-![Qt](https://img.shields.io/badge/Qt_Qml-expert-black)
+![Qt](https://img.shields.io/badge/Qt_Qml-Advanced-black)
 
 ### 📺 Contact Me
 
