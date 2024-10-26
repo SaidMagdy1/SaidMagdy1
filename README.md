@@ -1,6 +1,6 @@
 # ![Hi, I'm Said](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Said!👋🏼;+;+)
 
-[View my Resume 📝](https://drive.google.com/drive/u/0/folders/1ylvttUZGozfBDQk76bMfb3Dg0mm4qniV)
+[View my Resume 📝](https://drive.google.com/drive/folders/1uRhxDLYMp3okTo5gtrMik3iXi3IpXiri?usp=drive_link)
 
 
 ### 🧰 Here is what I'm working on!  
