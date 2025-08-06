@@ -5,11 +5,12 @@
 
 ### 🧰 Here is what I'm working on!  
 
-- 🔭 I’m currently working on building HMI(Cluster/Infotainment).
-- Building wifi connection between mobile and the vehicle.
-- system graphs.
-- navigation page..etc
-- all done by QT/Qml.
+- 🔭 I’m currently working on building HMI for(3D Printer).
+- Building wifi connection Rpi Machine.
+- Maintain Server/Client(TCP) Multithreaded.
+- Deal with Stepper Motors Driver and Communication Protocols.
+- Maintain database Json Files.
+- all done by QT/Qml Python Bash.
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
